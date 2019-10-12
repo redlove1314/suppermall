@@ -1,0 +1,4 @@
+git clone url:
+git add .
+git commit -[m|a] '描述'
+git push 	//提交到远端仓库
